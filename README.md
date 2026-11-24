@@ -1,4 +1,4 @@
-﻿# ðŸ† Claude Code Tier S â€” os 12 recursos que mudam seu dia
+# ðŸ† Claude Code Tier S â€” os 12 recursos que mudam seu dia
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,9 +6,9 @@
 </div>
 
 
-Curso INEMA.CLUB que ranqueia **todo recurso do Claude de D a S**, com o **Top 12** em contagem regressiva atÃ© o #1. O critÃ©rio nÃ£o Ã© hype nem popularidade â€” Ã© **quanto cada recurso muda o seu dia de trabalho de verdade**, pela lente de trabalho de conhecimento e automaÃ§Ã£o.
+Curso ARCKHÉ AI que ranqueia **todo recurso do Claude de D a S**, com o **Top 12** em contagem regressiva atÃ© o #1. O critÃ©rio nÃ£o Ã© hype nem popularidade â€” Ã© **quanto cada recurso muda o seu dia de trabalho de verdade**, pela lente de trabalho de conhecimento e automaÃ§Ã£o.
 
-ðŸ”— **Ao vivo:** https://inematds.github.io/cctop12/
+ðŸ”— **Ao vivo:** https://linnoff88-dev.github.io/
 
 ## Estrutura
 
@@ -32,7 +32,7 @@ python3 -m http.server 8080
 
 ---
 
-ConteÃºdo educacional INEMA.CLUB Â· 2026 Â· baseado em anÃ¡lise prÃ¡tica do ecossistema Claude ([vÃ­deo de referÃªncia](https://www.youtube.com/watch?v=vfWTyEreOEc)).
+ConteÃºdo educacional ARCKHÉ AI Â· 2026 Â· baseado em anÃ¡lise prÃ¡tica do ecossistema Claude ([vÃ­deo de referÃªncia](https://www.youtube.com/watch?v=vfWTyEreOEc)).
 
 ---
 
