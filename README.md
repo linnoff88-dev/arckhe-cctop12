@@ -1,4 +1,4 @@
-# ðŸ† Claude Code Tier S â€” os 12 recursos que mudam seu dia
+# ê°Å¸Ââ  Claude Code Tier S ê¢â¬â os 12 recursos que mudam seu dia
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -6,25 +6,25 @@
 </div>
 
 
-Curso ARCKHÉ AI que ranqueia **todo recurso do Claude de D a S**, com o **Top 12** em contagem regressiva atÃ© o #1. O critÃ©rio nÃ£o Ã© hype nem popularidade â€” Ã© **quanto cada recurso muda o seu dia de trabalho de verdade**, pela lente de trabalho de conhecimento e automaÃ§Ã£o.
+Curso ARCKHê AI que ranqueia **todo recurso do Claude de D a S**, com o **Top 12** em contagem regressiva atêÂ© o #1. O critêÂ©rio nêÂ£o êÂ© hype nem popularidade ê¢â¬â êÂ© **quanto cada recurso muda o seu dia de trabalho de verdade**, pela lente de trabalho de conhecimento e automaêÂ§êÂ£o.
 
-ðŸ”— **Ao vivo:** https://linnoff88-dev.github.io/
+ê°Å¸ââ **Ao vivo:** https://linnoff88-dev.github.io/
 
 ## Estrutura
 
-- **Trilha 1 Â· A FundaÃ§Ã£o** (Tier D + C) â€” o encanamento essencial e as ferramentas de Cowork, voz e web.
-- **Trilha 2 Â· Produtividade Real** (Tier B + A) â€” workflows paralelos, isolamento, revisÃ£o na nuvem e as menÃ§Ãµes honrosas.
-- **Trilha 3 Â· O Top 12** (Tier S) â€” a contagem regressiva do #12 ao #1, com o porquÃª de cada posiÃ§Ã£o.
+- **Trilha 1 êÂ· A FundaêÂ§êÂ£o** (Tier D + C) ê¢â¬â o encanamento essencial e as ferramentas de Cowork, voz e web.
+- **Trilha 2 êÂ· Produtividade Real** (Tier B + A) ê¢â¬â workflows paralelos, isolamento, revisêÂ£o na nuvem e as menêÂ§êÂµes honrosas.
+- **Trilha 3 êÂ· O Top 12** (Tier S) ê¢â¬â a contagem regressiva do #12 ao #1, com o porquêÂª de cada posiêÂ§êÂ£o.
 
-3 trilhas Â· 6 mÃ³dulos Â· 36 tÃ³picos Â· ~5h de conteÃºdo Â· pt-BR.
+3 trilhas êÂ· 6 mêÂ³dulos êÂ· 36 têÂ³picos êÂ· ~5h de conteêÂºdo êÂ· pt-BR.
 
-## BÃ´nus visual
+## BêÂ´nus visual
 
-Em `recursos/` hÃ¡ um **deck futurista navegÃ¡vel** (`tier-list.html`) e **uma imagem PNG de cada slide** (`recursos/imagens/`).
+Em `recursos/` hêÂ¡ um **deck futurista navegêÂ¡vel** (`tier-list.html`) e **uma imagem PNG de cada slide** (`recursos/imagens/`).
 
 ## Como rodar localmente
 
-Ã‰ um site estÃ¡tico. Abra `index.html` no navegador ou sirva a pasta:
+êâ° um site estêÂ¡tico. Abra `index.html` no navegador ou sirva a pasta:
 
 ```bash
 python3 -m http.server 8080
@@ -32,7 +32,7 @@ python3 -m http.server 8080
 
 ---
 
-ConteÃºdo educacional ARCKHÉ AI Â· 2026 Â· baseado em anÃ¡lise prÃ¡tica do ecossistema Claude ([vÃ­deo de referÃªncia](https://www.youtube.com/watch?v=vfWTyEreOEc)).
+ConteêÂºdo educacional ARCKHê AI êÂ· 2026 êÂ· baseado em anêÂ¡lise prêÂ¡tica do ecossistema Claude ([vêÂ­deo de referêÂªncia](https://www.youtube.com/watch?v=vfWTyEreOEc)).
 
 ---
 
